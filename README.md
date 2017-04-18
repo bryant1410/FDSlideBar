@@ -82,5 +82,5 @@ FDSlideBar is a sliding bar which is muck like the top menu bar of NTES news cli
 }
 ```
 
-#License
+# License
   MIT
